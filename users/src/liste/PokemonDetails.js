@@ -40,7 +40,7 @@ class Pokemons extends Component {
 
         if(url!== "http://localhost:3000/")
         {
-            //document.location.href="http://localhost:3000/"
+            document.location.href="http://localhost:3000/"
         }
 
         const {pokemon} = this.state;

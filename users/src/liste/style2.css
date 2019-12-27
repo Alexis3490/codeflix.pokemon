@@ -1,0 +1,50 @@
+.bordure-pokemon
+{
+    margin-left: 220px;
+}
+
+.details-pokemon{
+    position: relative;
+    margin-top: 2px;
+    width: 350px;
+    background-color: gray;
+}
+
+#back{
+    float: left;
+    margin-left: 105px ;
+    height: 35px;
+    width: 150px;
+    color:white;
+    text-align: left;
+
+}
+
+.title-cols
+{
+  margin-left: 500px;
+}
+
+.table
+{
+    width: 100%;
+}
+
+#taille-type
+{
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.tb_img{
+    width: 100%;
+}
+
+#bordure_tb_type {
+    padding-bottom: 60px;
+}
+
+

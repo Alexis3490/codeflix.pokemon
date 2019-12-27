@@ -1,0 +1,178 @@
+.list-pokemon
+{
+    list-style: none;
+    height: auto;
+    float: left;
+}
+
+
+.pokemon-element
+{
+    display: block;
+    float: left;
+    position: relative;
+    background: #F2F2F2;
+    margin-left: 3px;
+    border-radius: 5px;
+    padding-top: 1px;
+}
+
+.img-pokemon
+{
+    float: left;
+    border: 1px solid gray;
+    background: gray;
+    border-radius: 4px;
+}
+
+h2
+{
+    color: black;
+    font-size: 48px;
+}
+
+.bordure-pokemon
+{
+    margin-left: 220px;
+}
+
+.pokemon-type1, .pokemon-type2
+{
+    border: 1px solid black;
+}
+
+.width-search {
+    margin-left: 650px;
+    margin-right: 800px;
+}
+
+.Plante, .Poison, .Feu, .Vol, .Eau, .Insecte, .Normal, .Électrique, .Sol, .Combat, .Spy, .Roche, .Acier, .Glace, .Spectre,
+.Dragon{
+    margin-left: 10px;
+}
+
+.Plante
+{
+    border: 1px solid forestgreen;
+    background-color: forestgreen;
+    border-radius: 3px;
+    color: white;
+}
+
+.Poison
+{
+    border: 1px solid #973aff;
+    background-color: #973aff;
+    border-radius: 3px;
+    color: white;
+}
+
+.Feu
+ {
+     border: 1px solid red;
+     background-color: red;
+     border-radius: 3px;
+     color: white;
+ }
+
+.Vol
+{
+    border: 1px solid grey;
+    background-color: grey;
+    border-radius: 3px;
+    color: white;
+}
+
+.Eau
+{
+    border: 1px solid deepskyblue;
+    background-color: deepskyblue;
+    border-radius: 3px;
+    color: white;
+}
+
+.Insecte
+{
+    border: 1px solid darkgreen;
+    background-color: darkgreen;
+    border-radius: 3px;
+    color: white;
+}
+
+.Normal {
+    border: 1px solid saddlebrown;
+    background-color: saddlebrown;
+    border-radius: 3px;
+    color: white;
+}
+
+.Électrique
+{
+    border: 1px solid #ffd02e;
+    background-color: #ffd02e;
+    border-radius: 3px;
+    color: white;
+}
+
+.Sol
+{
+    border: 1px solid sandybrown;
+    background-color: sandybrown;
+    border-radius: 3px;
+    color: white;
+}
+
+.Combat
+{
+    border: 1px solid #8b3a12;
+    background-color: #8b3a12;
+    border-radius: 3px;
+    color: white;
+}
+
+.Psy
+{
+    border: 1px solid mediumpurple;
+    background-color: mediumpurple;
+    border-radius: 3px;
+    color: white;
+}
+
+.Roche {
+    border: 1px solid #8b603f;
+    background-color: #8b603f;
+    border-radius: 3px;
+    color: white;
+}
+
+.Acier
+{
+    border: 1px solid lightslategrey;
+    background-color: lightslategray;
+    border-radius: 3px;
+    color: white;
+}
+
+.Glace
+{
+    border: 1px solid cornflowerblue;
+    background-color: cornflowerblue;
+    border-radius: 3px;
+    color: white;
+}
+
+.Spectre
+{
+    border: 1px solid mediumslateblue;
+    background-color: mediumslateblue;
+    border-radius: 3px;
+    color: white;
+}
+
+.Dragon
+{
+    border: 1px solid darkred;
+    background-color: darkred;
+    border-radius: 3px;
+    color: white;
+}

@@ -45,11 +45,11 @@ class Pokemons extends Component {
 
         const {pokemon} = this.state;
 
-        var stats = [];
+        const stats = [];
 
         _.forEach(pokemon.attaques, function(obj) {
-            var keys = Object.keys(obj);
-            var ob = {};
+            const keys = Object.keys(obj);
+            const ob = {};
 
             _.forEach(keys, function(key) {
                 ob[key]= obj[key];
